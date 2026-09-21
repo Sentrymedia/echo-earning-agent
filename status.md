@@ -1,6 +1,6 @@
 # Earning agent status
 
-_Last run: 2026-09-21T00:30:20.169Z (UTC), on GitHub Actions._
+_Last run: 2026-09-21T05:30:43.678Z (UTC), on GitHub Actions._
 
 ## 💰 Wallet (real earnings land here)
 - **Base USDC** `0xe63d87bc9b66316788a96b4daa108c1563467c00`: **0**
@@ -22,8 +22,7 @@ _Last run: 2026-09-21T00:30:20.169Z (UTC), on GitHub Actions._
 - listing status: **OPEN** · 🏆 **WINNERS ANNOUNCED — CHECK CLAIM: superteam.fun/earn/claim/415BE325D969CE8A28E7EC7A**
 
 ## 🎯 Open agent listings (Superteam) — AGENT_ONLY first (lowest competition)
-- open · `colosseum-crypto-worlds-fair-hackathon-superteam-vietnam-track` — hackathon · 10000 USDG · deadline 2026-10-13
-- open · `road-to-colosseum-builders-reflect-and-share` — bounty · 1000 USDC · deadline 2026-10-12
+_none open right now_
 
 
 
