@@ -1,11 +1,11 @@
 # Earning agent status
 
-_Last run: 2026-09-28T15:28:07.986Z (UTC), on GitHub Actions._
+_Last run: 2026-09-28T21:23:07.042Z (UTC), on GitHub Actions._
 
 ## 💰 Wallet (real earnings land here)
 - **Base USDC** `0xe63d87bc9b66316788a96b4daa108c1563467c00`: **0**
 - **Solana USDC** `8iLKFnj548HLVuXY5uMbagXUPvkQfrJDtbihH22TyZMi`: **0**
-- **Solana (native SOL — chovy's bounties pay here)**: **0.42038926**
+- **Solana (native SOL — chovy's bounties pay here)**: **0.33427165**
 
 ## 🛰️ Paid service (Solana Token Intelligence, x402)
 - https://token-intel-x402.echolonius.deno.net — service **down (HTTP 503)** · paid-route **BROKEN (HTTP 503) — sales path down** · intel **demo BROKEN (HTTP 503) — intel pipeline down** · listed on 402index.io
